@@ -7,23 +7,23 @@ It works in few steps:
 
 # Screenshots
 
-** Homepage **
+### Homepage
 ![Homepage](https://i.ibb.co/wQ8V6DV/screenshot-1.png)
 
-** Albums page **
+### Albums page
 ![Albums page](https://i.ibb.co/P6ZJqGH/screenshot-2.png)
 
-** Albums details **
+### Albums details
 ![Albums details with tracks](https://i.ibb.co/J2DRg56/screenshot-3.png)
 
-** Genres **
+### Genres
 ![Genres](https://i.ibb.co/jWPRS4B/screenshot-4.png)
 
-** Artists page **
+### Artists page
 ![Artists page](https://i.ibb.co/tYVpJf3/screenshot-5.png)
 
-** Artists searched **
+### Artists searched
 ![Artist searched](https://i.ibb.co/fnHfzJp/screenshot-6.png)
 
-** Album searched **
+### Album searched
 ![Album searched](https://i.ibb.co/pvVwjmV/screenshot-7.png)
