@@ -7,7 +7,7 @@ It works in few steps:
 
 # Screenshots
 
-! [Homepage](https://i.ibb.co/wQ8V6DV/screenshot-1.png)
+! [Homepage](https://i.ibb.co/wQ8V6DV/screenshot-1.png?raw=true)
 ! [Albums page](https://i.ibb.co/P6ZJqGH/screenshot-2.png)
 ! [Albums details with tracks](https://i.ibb.co/J2DRg56/screenshot-3.png)
 ! [Genres](https://i.ibb.co/jWPRS4B/screenshot-4.png)
