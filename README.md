@@ -5,6 +5,12 @@ It works in few steps:
 - Cd .. to get back to the repo root and cd in spotify dir, then run 'npm install && npm run'
 - Navigate to localhost:4000 and you're good to go !
 
+# Very important
+- You need to create a .env file in the "spotify-api" directory, with your db credentials
+- You need to start the dockerized db with the docker-compose.yml file in the same directory
+- Finally, you have to run the sql script "my_spotify_db.sql" in your database
+- You're good to go !
+
 # Screenshots
 
 ### Homepage
